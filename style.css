@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+label {
+  color: #2d3b40;
+}
+h2 {
+  font-weight: 900;
+  color: #0583f2;
+}
+h1 {
+  color: #2d3b40;
+  font-weight: 900;
+}
+nav {
+  background-color: #0583f2;
+}
+.pt-10 {
+  padding-top: 10rem;
+}
+.pt-8 {
+  padding-top: 5rem;
+}
