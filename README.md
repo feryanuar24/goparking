@@ -2,16 +2,16 @@
 Parking management app
 
 1. Login Page
-![Login Page](https://drive.google.com/file/d/1FXAVwZUClIiyERYz_A2m2r0yETkvtYC6/view?usp=sharing)
+![login page](https://user-images.githubusercontent.com/99337872/191735098-dba07e9f-f29f-40cb-b360-5045fa77084d.png)
 
 2. Dashboard Page
-![Dashboard Page](https://drive.google.com/file/d/1XPlq85Dnc1Wm-IPOEat1SXtydMX67ORP/view?usp=sharing)
+![dashboard page](https://user-images.githubusercontent.com/99337872/191735192-2da464be-8095-41c7-a68f-684dee8782af.png)
 
 3. Input Page
-![Input Page](https://drive.google.com/file/d/1K6nIrLyCqjgF6XB3n028THj9Q1phdWY8/view?usp=sharing)
+![input page](https://user-images.githubusercontent.com/99337872/191735258-b456ba2d-57fd-4cc3-b9db-55d9ccefb2a5.png)
 
 4. Output Page
-![Output Page](https://drive.google.com/file/d/1xGrPVGS13FByPThy4DR4YUcSm_FviQHF/view?usp=sharing)
+![output page](https://user-images.githubusercontent.com/99337872/191735283-8782187f-bba2-4067-94ac-05bf67231492.png)
 
 5. Print Page
-![Print Page](https://drive.google.com/file/d/1CDqh6HjwTK4loueNb4KpCYw2SfmjU4yB/view?usp=sharing)
+![print page](https://user-images.githubusercontent.com/99337872/191735309-8a99b631-5329-4a1d-a967-6d6322c38d5d.png)
