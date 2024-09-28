@@ -7,16 +7,10 @@ const Parking = sequelize.define(
     vehicleNumber: {
       type: DataTypes.STRING,
       allowNull: false,
-      validate: {
-        notEmpty: true,
-      },
     },
     vehicleType: {
       type: DataTypes.STRING,
       allowNull: false,
-      validate: {
-        notEmpty: true,
-      },
     },
     entryTime: {
       type: DataTypes.DATE,
@@ -29,9 +23,6 @@ const Parking = sequelize.define(
     parkingFee: {
       type: DataTypes.FLOAT,
       allowNull: true,
-      validate: {
-        min: 0,
-      },
     },
   },
   {
